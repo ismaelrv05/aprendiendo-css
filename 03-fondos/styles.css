@@ -1,0 +1,14 @@
+body {
+    background: #ccc;
+    background-image: url("img/patron1.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-attachment: fixed; /*El fondo se queda fijo*/
+}
+
+#caja {
+    border: 5px solid black;
+    padding: 10px;
+    background-color: rgb(114, 151, 221);
+    color: white;
+}
